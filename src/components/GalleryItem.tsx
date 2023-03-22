@@ -1,7 +1,9 @@
 import { useState } from 'react'
 
 interface GalleryItemProps {
-    handleSearch: any;
+    // handleSearch: any;
+    item: any;
+    key: any;
 }
 
 function GalleryItem(props : GalleryItemProps){

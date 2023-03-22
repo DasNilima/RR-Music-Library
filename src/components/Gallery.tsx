@@ -1,8 +1,8 @@
 import GalleryItem from './GalleryItem'
 
-interface GalleryItem {
-    data: any;
-}
+// interface GalleryItem {
+//     data: any;
+// }
 
 function Gallery(props: any){
 
